@@ -1,0 +1,11 @@
+{
+    "description": "Mon site hébergé sur Netlify",
+    "repo": "https://github.com/easytech-h/Jude.github.io",
+    "owner": {
+        "username": "easytech-h",
+        "email": "pjudehawens12@gmail.com"
+    },
+    "record": {
+        "CNAME": "sparkling-souffle-46a131.netlify.app"
+    }
+}
