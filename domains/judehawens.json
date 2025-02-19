@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/easytech-h/judeportfolio",
+    "owner": {
+        "username": "easytech-h",
+        "email": "[pjudehawens12@gmail.com]"
+    },
+    "record": {
+        "A": ["75.2.60.5"]
+        "CNAME": "sparkling-souffle-46a131.netlify.app"
+    }
+}
